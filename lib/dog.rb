@@ -6,7 +6,7 @@ class DOG
     @@all << self
   end
   
-  def getName
+  def name
     @name
   end
   
