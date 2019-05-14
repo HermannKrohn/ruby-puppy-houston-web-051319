@@ -1,4 +1,4 @@
-class DOG
+class Dog
   @@all = []
   
   def initialize(name)
