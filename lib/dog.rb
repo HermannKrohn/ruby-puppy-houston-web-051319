@@ -15,3 +15,4 @@ class dog
       puts #{dog.getName}
     end
   end
+end
